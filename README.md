@@ -68,7 +68,7 @@ countries and driving security transformation initiatives.
 
 ---
 
-🏆 Professional Recognitions & Achievements
+🏆 Professional Recognitions & Achievements 
 
 - 🏅 **4× INSPIRE Award Winner** – Honored for the successful implementation of cybersecurity initiatives across **India, Thailand, Sri Lanka, Vietnam, Bangladesh, Indonesia**, and the **Philippines**.  
 - 🥇 **BitSight Rating Milestone** – Elevated enterprise cybersecurity maturity from **370/820 (Basic)** to **800/820 (Advanced)** over three years through strategic improvements and continuous monitoring.  
