@@ -86,6 +86,21 @@ countries and driving security transformation initiatives.
   <img src="https://img.shields.io/badge/-ISO%2027001%20LA-000000?&style=for-the-badge&logo=ISO&logoColor=white" />
 </div>
 
+## 🎓 Certifications
+
+- 🛡️ **CompTIA Security+** (COMP001021542286)  
+- 🕵️‍♂️ **CEH v10 | Certified Ethical Hacker Training** (ECC8973125046)  
+- 📋 **CISM | Certified Information Security Manager**  
+  Certificate No. 252753251, ISACA ID: 2126956  
+- 🔐 **CISSP | Certified Information Systems Security Professional**  
+- 💻 **Microsoft Certified IT Professional** (3632032)  
+- 🐧 **Red Hat Certified Systems Administrator** (605010380231224)  
+- 📚 **ITIL 4 Foundation Certified + Practitioner** (99800979617308056)  
+- 💾 **Certified on Nimble Storage Platform**  
+- 📈 **Certified Project Management Professional** | Member of PMI  
+- 🔑 **CyberArk Privileged Access Security (Trustee)**  
+- 🛡️ **Symantec Endpoint Protection Implementation**  
+- 🚨 **Sophos XDR Advanced Implementation**  
 
 
 ---
