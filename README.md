@@ -69,10 +69,11 @@ countries and driving security transformation initiatives.
 ---
 
 🏆 Professional Recognitions & Achievements
-🏅 4× INSPIRE Award Winner – Honored for the successful implementation of cybersecurity initiatives across India, Thailand, Sri Lanka, Vietnam, Bangladesh, Indonesia, and the Philippines.
-🥇 BitSight Rating Milestone – Elevated enterprise cybersecurity maturity from 370/820 (Basic) to 800/820 (Advanced) over three years through strategic improvements and continuous monitoring.
-🌟 Guiding Star Award, Spice Digital Ltd – Recognized for the successful implementation of Vodafone’s Zonal Architecture project.
-🧾 Employee of the Year (2012) – Awarded for architecting and deploying a custom Linux OS across 160+ sites, streamlining infrastructure operations.
+
+- 🏅 **4× INSPIRE Award Winner** – Honored for the successful implementation of cybersecurity initiatives across **India, Thailand, Sri Lanka, Vietnam, Bangladesh, Indonesia**, and the **Philippines**.  
+- 🥇 **BitSight Rating Milestone** – Elevated enterprise cybersecurity maturity from **370/820 (Basic)** to **800/820 (Advanced)** over three years through strategic improvements and continuous monitoring.  
+- 🌟 **Guiding Star Award**, *Spice Digital Ltd* – Recognized for the successful implementation of **Vodafone’s Zonal Architecture** project.  
+- 🧾 **Employee of the Year (2012)** – Awarded for architecting and deploying a **custom Linux OS across 160+ sites**, streamlining infrastructure operations.
 
 ---
 
