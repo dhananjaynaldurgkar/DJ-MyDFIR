@@ -89,10 +89,17 @@ countries and driving security transformation initiatives.
 
 I’m always open to meaningful collaborations, especially around:
 
-- 🎓 **Cybersecurity education** and career mentoring
-- 🛠️ **Open-source projects** in digital forensics, threat detection, SIEM, etc.
-- 📊 **Security assessments**, consulting, or audits (NIST, ISO, CIS)
-- 🧑‍🏫 **Guest speaking** or contributing to community webinars, podcasts, and articles
+- 🎓 Cybersecurity education and career mentoring
+- 🛠️ Open-source projects in digital forensics, threat detection, SIEM, etc.
+- 📊 Security assessments, consulting, or audits (NIST, ISO, CIS)
+- 🧑‍🏫 Guest speaking or contributing to community webinars, podcasts, and articles
+- 🔍 Vulnerability Assessments and Penetration Testing for networks, applications, and cloud environments
+- 📈 Cybersecurity consulting to improve overall security posture and implement best practices
+- 🛡️ NIST Cybersecurity Framework assessments and gap analysis
+- 🔥 Next-Gen Firewall and SIEM deployment and optimization
+- 🖥️ Endpoint Security, Email Security, and WAF-based Web Application Protection
+- 🎓 Cybersecurity trainings for teams, executives, or technical audiences
+- 📢 Speaking engagements, webinars, podcasts, or content collaboration in the cybersecurity space
 
 ---
 
