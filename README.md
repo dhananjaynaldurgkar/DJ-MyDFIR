@@ -12,6 +12,7 @@
   <a href="https://www.instagram.com/dhananjaynaldurgkar/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
+  <a href="https//www.facebook.com/dhananjay.naldurgkar" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 </div>
 
