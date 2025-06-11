@@ -1,4 +1,19 @@
 # 👋 Hi, I'm Dhananjay “DJ” Naldurgkar
+## 🌐 Connect With Me
+
+<div>
+  <a href="https://www.youtube.com/@cybersecuritycareer" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhananjay-naldurgkar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+</div>
+
 
 Welcome to my GitHub!
 
