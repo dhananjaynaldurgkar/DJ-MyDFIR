@@ -116,6 +116,21 @@ countries and driving security transformation initiatives.
   <img src="https://img.shields.io/badge/-Symantec-FFD700?&style=for-the-badge&logo=Symantec&logoColor=black" />
   <img src="https://img.shields.io/badge/-Sophos-FF0000?&style=for-the-badge&logo=Sophos&logoColor=white" />
 </div>
+
+- <img src="https://img.shields.io/badge/-CompTIA-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA" width="90"/> 🛡️ **CompTIA Security+** (COMP001021542286)  
+- <img src="https://img.shields.io/badge/-CEH%20v10-AA0000?&style=for-the-badge&logo=CEH&logoColor=white" alt="CEH" width="90"/> 🕵️‍♂️ **CEH v10 | Certified Ethical Hacker Training** (ECC8973125046)  
+- <img src="https://img.shields.io/badge/-CISM-002b36?&style=for-the-badge&logo=ISACA&logoColor=white" alt="CISM" width="90"/> 📋 **CISM | Certified Information Security Manager**  
+  Certificate No. 252753251, ISACA ID: 2126956  
+- <img src="https://img.shields.io/badge/-CISSP-003366?&style=for-the-badge&logo=ISC2&logoColor=white" alt="CISSP" width="90"/> 🔐 **CISSP | Certified Information Systems Security Professional**  
+- <img src="https://img.shields.io/badge/-MCP-00ADEF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="MCP" width="90"/> 💻 **Microsoft Certified IT Professional** (3632032)  
+- <img src="https://img.shields.io/badge/-RHCSA-AA0000?&style=for-the-badge&logo=RedHat&logoColor=white" alt="RHCSA" width="90"/> 🐧 **Red Hat Certified Systems Administrator** (605010380231224)  
+- <img src="https://img.shields.io/badge/-ITIL%204-5A2C84?&style=for-the-badge&logo=Axelos&logoColor=white" alt="ITIL 4" width="90"/> 📚 **ITIL 4 Foundation Certified + Practitioner** (99800979617308056)  
+- 💾 **Certified on Nimble Storage Platform**  
+- <img src="https://img.shields.io/badge/-PMI-007ACC?&style=for-the-badge&logo=Project%20Management&logoColor=white" alt="PMI" width="90"/> 📈 **Certified Project Management Professional** | Member of PMI  
+- <img src="https://img.shields.io/badge/-CyberArk-1F2937?&style=for-the-badge&logo=CyberArk&logoColor=white" alt="CyberArk" width="90"/> 🔑 **CyberArk Privileged Access Security (Trustee)**  
+- <img src="https://img.shields.io/badge/-Symantec-FFD700?&style=for-the-badge&logo=Symantec&logoColor=black" alt="Symantec" width="90"/> 🛡️ **Symantec Endpoint Protection Implementation**  
+- <img src="https://img.shields.io/badge/-Sophos-FF0000?&style=for-the-badge&logo=Sophos&logoColor=white" alt="Sophos" width="90"/> 🚨 **Sophos XDR Advanced Implementation**  
+
 ---
 
 ## 🤝 Collaboration Opportunities
