@@ -9,7 +9,7 @@
   <a href="https://www.cybersecuritycareer.academy" target="_blank">
   <img src="https://img.shields.io/badge/My Academy-007BFF?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
   </a>
-  <a href="https://www.dhananjayn.com" target="_blank">
+  <a href="https://dhananjayn.com" target="_blank">
   <img src="https://img.shields.io/badge/My%20Blog-007BFF?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/dhananjaynaldurgkar/" target="_blank">
