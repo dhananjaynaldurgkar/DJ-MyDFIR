@@ -48,13 +48,20 @@ countries and driving security transformation initiatives.
 
 ---
 
-## 📚 Certifications
+## 📜 Certifications
 
-- **CISSP** – Certified Information Systems Security Professional  
-- **CISM** – Certified Information Security Manager  
-- **PMP** – Project Management Professional  
-- **CEH** – Certified Ethical Hacker  
-- **Security+**, **ITIL v4**, **RHCSA**, **ISO 27001 LA**, and more
+<div>
+  <img src="https://img.shields.io/badge/-CISSP-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CISM-002b36?&style=for-the-badge&logo=ISACA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CEH%20v10-AA0000?&style=for-the-badge&logo=CEH&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CompTIA-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ITIL%204-5A2C84?&style=for-the-badge&logo=Axelos&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RHCSA-AA0000?&style=for-the-badge&logo=RedHat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MCP-00ADEF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISO%2027001%20LA-000000?&style=for-the-badge&logo=ISO&logoColor=white" />
+</div>
+
+
 
 ---
 
