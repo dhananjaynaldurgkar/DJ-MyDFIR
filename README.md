@@ -51,10 +51,6 @@ countries and driving security transformation initiatives.
 
 ## 📄 Publications & Articles
 
-> Thought leadership and technical writing to empower others:
-
-## 📝 My Blog Posts
-
 - [Top 8 Free Tools for Practicing Ethical Hacking Skills](https://dhananjayn.com/top-8-free-tools-for-practicing-ethical-hacking-skills/)
 - [5 Paths to Launch Your Cybersecurity Career Without a Degree](https://dhananjayn.com/5-paths-to-launch-your-cybersecurity-career-without-a-degree/)
 - [Bridging the Experience Gap in Cybersecurity Careers](https://dhananjayn.com/bridging-the-experience-gap-in-cybersecurity-careers/)
@@ -68,7 +64,7 @@ countries and driving security transformation initiatives.
 
 ---
 
-🏆 Professional Recognitions & Achievements 
+## 🏆 Professional Recognitions & Achievements 
 
 - 🏅 **4× INSPIRE Award Winner** – Honored for the successful implementation of cybersecurity initiatives across **India, Thailand, Sri Lanka, Vietnam, Bangladesh, Indonesia**, and the **Philippines**.  
 - 🥇 **BitSight Rating Milestone** – Elevated enterprise cybersecurity maturity from **370/820 (Basic)** to **800/820 (Advanced)** over three years through strategic improvements and continuous monitoring.  
