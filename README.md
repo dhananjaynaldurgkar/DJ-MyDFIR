@@ -2,17 +2,18 @@
 
 Welcome to my GitHub!
 
-I’m a cybersecurity specialist, consultant, and certified trainer with nearly 20 years of experience securing digital infrastructure and mentoring future cybersecurity leaders. 
-I currently serve as a Senior Consultant at Coforge Technologies, overseeing security operations across multiple countries and driving security transformation initiatives.
+I’m a cybersecurity specialist, consultant, and certified trainer with nearly 20 years of experience securing digital infrastructure and mentoring 
+future cybersecurity leaders. I currently serve as a Senior Consultant at Coforge Technologies, overseeing security operations across multiple 
+countries and driving security transformation initiatives.
 
 ---
 
 ## 🛡️ About Me
 
-- 🔐 **Cybersecurity Leader** | Specializing in SOC operations, vulnerability management, NIST & ISO 27001 alignment, and cloud/on-prem security.
-- 🌏 **Global Mentor** | Founder of [CybersecurityCareer.Academy](https://cybersecuritycareer.academy/), where I’ve trained over **15,000 students** in **160+ countries**.
-- 🧠 **Certified Expert** | CISSP, CISM, PMP, CEH, Security+, ITIL, ISO-LA, RHCSA, and more.
-- 💬 **Passionate Educator** | Known for mentoring with heart—my students' growth and appreciation constantly fuel my passion for teaching.
+- 🔐 Cybersecurity Leader | Specializing in SOC operations, vulnerability management, NIST & ISO 27001 alignment, and cloud/on-prem security.
+- 🌏 Global Mentor | Founder of [CybersecurityCareer.Academy](https://cybersecuritycareer.academy/), where I’ve trained over 15,000 students in 160+ countries.
+- 🧠 Certified Expert | CISSP, CISM, PMP, CEH, Security+, ITIL, ISO-LA, RHCSA, and more.
+- 💬 Passionate Educator | Known for mentoring with heart—my students' growth and appreciation constantly fuel my passion for teaching.
 
 ---
 
