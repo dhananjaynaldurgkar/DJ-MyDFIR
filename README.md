@@ -6,13 +6,12 @@
   <a href="https://www.linkedin.com/in/dhananjay-naldurgkar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-<a href="https://www.cybersecuritycareer.academy" target="_blank">
-  <img src="https://img.shields.io/badge/Website-007BFF?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
-</a>
-<a href="https://www.dhananjayn.com" target="_blank">
+  <a href="https://www.cybersecuritycareer.academy" target="_blank">
+  <img src="https://img.shields.io/badge/My Academy-007BFF?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
+  </a>
+  <a href="https://www.dhananjayn.com" target="_blank">
   <img src="https://img.shields.io/badge/My%20Blog-007BFF?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
-</a>
-
+  </a>
   <a href="https://www.instagram.com/dhananjaynaldurgkar/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
