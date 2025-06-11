@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Dhananjay “DJ” Naldurgkar
-## 🌐 Connect With Me
-
 <div>
   <a href="https://www.youtube.com/@cybersecuritycareer" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
@@ -14,8 +12,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 </div>
 
-
-Welcome to my GitHub!
+## 🌐 Welcome to my GitHub!
 
 I’m a cybersecurity specialist, consultant, and certified trainer with nearly 20 years of experience securing digital infrastructure and mentoring 
 future cybersecurity leaders. I currently serve as a Senior Consultant at Coforge Technologies, overseeing security operations across multiple 
