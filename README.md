@@ -82,7 +82,3 @@ Feel free to explore my work, follow for updates, or reach out for collaboration
 
 *Keep learning. Keep securing. 🔒*
 ```
-
----
-
-Would you like help formatting this into your GitHub profile directly or need help creating a featured project repository with this content?
