@@ -53,9 +53,18 @@ countries and driving security transformation initiatives.
 
 > Thought leadership and technical writing to empower others:
 
-- 📘 [Digital Empowerment Through ICT](#) *(placeholder — add actual link)*
-- 🧠 [Cybersecurity as a Career Path: What You Need to Know](#)
-- 🛡️ [Building a Resilient SOC from Scratch](#)
+## 📝 My Blog Posts
+
+- [Top 8 Free Tools for Practicing Ethical Hacking Skills](https://dhananjayn.com/top-8-free-tools-for-practicing-ethical-hacking-skills/)
+- [5 Paths to Launch Your Cybersecurity Career Without a Degree](https://dhananjayn.com/5-paths-to-launch-your-cybersecurity-career-without-a-degree/)
+- [Bridging the Experience Gap in Cybersecurity Careers](https://dhananjayn.com/bridging-the-experience-gap-in-cybersecurity-careers/)
+- [Beginner’s Guide: First 90 Days in an IT Security Role](https://dhananjayn.com/beginners-guide-first-90-days-in-an-it-security-role/)
+- [IT Career Checklist: Preparing for Your First Security Role](https://dhananjayn.com/it-career-checklist-preparing-for-your-first-security-role/)
+- [5 Common Cybersecurity Interview Questions and How to Answer](https://dhananjayn.com/5-common-cybersecurity-interview-questions-and-how-to-answer/)
+- [Entry-Level Cybersecurity Salaries: 2025 Market Insights](https://dhananjayn.com/entry-level-cybersecurity-salaries-2025-market-insights/)
+- [CompTIA Security+ vs CEH: Choosing Your First Certification](https://dhananjayn.com/comptia-security-vs-ceh-choosing-your-first-certification/)
+- [Transitioning from IT Support to Cybersecurity: A Roadmap](https://dhananjayn.com/transitioning-from-it-support-to-cybersecurity-a-roadmap/)
+
 
 ---
 
