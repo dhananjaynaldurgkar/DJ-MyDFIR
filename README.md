@@ -133,8 +133,7 @@ countries and driving security transformation initiatives.
 
 - 🛡️ **CompTIA Security+** (COMP001021542286)  
 - 🕵️‍♂️ **CEH v10 | Certified Ethical Hacker Training** (ECC8973125046)  
-- 📋 **CISM | Certified Information Security Manager**  
-  Certificate No. 252753251, ISACA ID: 2126956  
+- 📋 **CISM | Certified Information Security Manager** (252753251)  
 - 🔐 **CISSP | Certified Information Systems Security Professional**  
 - 💻 **Microsoft Certified IT Professional** (3632032)  
 - 🐧 **Red Hat Certified Systems Administrator** (605010380231224)  
@@ -145,7 +144,16 @@ countries and driving security transformation initiatives.
 - 🛡️ **Symantec Endpoint Protection Implementation**  
 - 🚨 **Sophos XDR Advanced Implementation**
 
----
+## 📜 Professional Memberships
+
+- 👨‍💼 **Professional Member of [ISACA](https://www.isaca.org/)**
+  - Engaged in the global community advancing digital trust, governance, and cybersecurity.
+  - Actively follows developments in risk management, audit, and compliance.
+
+- 📈 **Member of [Project Management Institute (PMI)](https://www.pmi.org/)**
+  - Contributes to thought leadership and best practices in project and program management.
+  - Certified PMP, focused on integrating cybersecurity into project life cycles.
+
 
 ## 🤝 Collaboration Opportunities
 
