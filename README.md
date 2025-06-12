@@ -131,7 +131,7 @@ countries and driving security transformation initiatives.
 
 ## 📜 Certifications
 
-- <img src="https://img.shields.io/badge/-CompTIA-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA" width="90"/> 🛡️ **CompTIA Security+** (COMP001021542286)  
+- 🛡️ **CompTIA Security+** (COMP001021542286)  
 - <img src="https://img.shields.io/badge/-CEH%20v10-AA0000?&style=for-the-badge&logo=CEH&logoColor=white" alt="CEH" width="90"/> 🕵️‍♂️ **CEH v10 | Certified Ethical Hacker Training** (ECC8973125046)  
 - <img src="https://img.shields.io/badge/-CISM-002b36?&style=for-the-badge&logo=ISACA&logoColor=white" alt="CISM" width="90"/> 📋 **CISM | Certified Information Security Manager**  
   Certificate No. 252753251, ISACA ID: 2126956  
