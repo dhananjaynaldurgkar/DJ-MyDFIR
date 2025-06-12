@@ -28,6 +28,15 @@
 [![Facebook](https://img.shields.io/badge/Facebook-8B00FF?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dhananjay.naldurgkar)
 
 
+[![YouTube](https://img.shields.io/badge/YouTube-B33A3A?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@cybersecuritycareer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C2661A?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhananjay-naldurgkar/)
+[![My Academy](https://img.shields.io/badge/My%20Academy-D4C24F?style=for-the-badge&logo=Google%20Chrome&logoColor=black)](https://www.cybersecuritycareer.academy)
+[![My Blog](https://img.shields.io/badge/My%20Blog-4CAF50?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://dhananjayn.com)
+[![Instagram](https://img.shields.io/badge/Instagram-3A6EA5?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dhananjaynaldurgkar/)
+[![Facebook](https://img.shields.io/badge/Facebook-6A0DAD?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dhananjay.naldurgkar)
+
+
+
 ## 🌐 Welcome to my GitHub!
 
 I’m a cybersecurity specialist, consultant, and certified trainer with nearly 20 years of experience securing digital infrastructure and mentoring 
