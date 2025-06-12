@@ -1,41 +1,12 @@
 # 👋 Hi, I'm Dhananjay “DJ” Naldurgkar
 <div>
-  <a href="https://www.youtube.com/@cybersecuritycareer" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhananjay-naldurgkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="https://www.cybersecuritycareer.academy" target="_blank">
-  <img src="https://img.shields.io/badge/My Academy-007BFF?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
-  </a>
-  <a href="https://dhananjayn.com" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Blog-007BFF?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/dhananjaynaldurgkar/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/dhananjay.naldurgkar)" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-</div>
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@cybersecuritycareer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7F00?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhananjay-naldurgkar/)
-[![My Academy](https://img.shields.io/badge/My%20Academy-FFFF00?style=for-the-badge&logo=Google%20Chrome&logoColor=black)](https://www.cybersecuritycareer.academy)
-[![My Blog](https://img.shields.io/badge/My%20Blog-00FF00?style=for-the-badge&logo=Google%20Chrome&logoColor=black)](https://dhananjayn.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0000FF?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dhananjaynaldurgkar/)
-[![Facebook](https://img.shields.io/badge/Facebook-8B00FF?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dhananjay.naldurgkar)
-
-
-[![YouTube](https://img.shields.io/badge/YouTube-B33A3A?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@cybersecuritycareer)
+  [![YouTube](https://img.shields.io/badge/YouTube-B33A3A?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@cybersecuritycareer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C2661A?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhananjay-naldurgkar/)
 [![My Academy](https://img.shields.io/badge/My%20Academy-D4C24F?style=for-the-badge&logo=Google%20Chrome&logoColor=black)](https://www.cybersecuritycareer.academy)
 [![My Blog](https://img.shields.io/badge/My%20Blog-4CAF50?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://dhananjayn.com)
 [![Instagram](https://img.shields.io/badge/Instagram-3A6EA5?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dhananjaynaldurgkar/)
 [![Facebook](https://img.shields.io/badge/Facebook-6A0DAD?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dhananjay.naldurgkar)
-
-
+</div>
 
 ## 🌐 Welcome to my GitHub!
 
