@@ -37,13 +37,50 @@ countries and driving security transformation initiatives.
 
 ---
 
-## 🔗 Featured Projects
+## 🚀 Featured Projects & Implementations
 
-> Here are a few key projects and contributions I've been involved in:
+> Real-world cybersecurity tools and frameworks I’ve worked with across enterprises and global teams:
 
-- 🔐 **Global Security Operations** – Led SOC, SIEM, vulnerability management, and phishing simulation for a multi-country cement manufacturing group.
-- ☁️ **Secure Email Transformation** – Implemented SPF, DKIM, DMARC for enterprise-grade email threat protection.
-- 🧰 **Custom Tools & Scripts** – Coming soon: Open-source tools/scripts related to vulnerability scanning, endpoint monitoring, and SOC automation.
+### 🛰️ QRoC SIEM (Security Information and Event Management)
+- Implemented and fine-tuned **QRoC SIEM** for real-time threat detection, log correlation, and alerting.
+- Built custom use cases, dashboards, and integrations with endpoint and cloud telemetry.
+- Enhanced SOC visibility across hybrid environments using threat intelligence feeds.
+
+### 📊 Bitsight Security Ratings
+- Improved enterprise **Bitsight score from 370 → 800** (Basic to Advanced).
+- Conducted continuous posture assessments, third-party risk management, and compliance reporting.
+- Mapped cyber hygiene KPIs to actionable remediation using external scan insights.
+
+### 🛡️ NIST Cybersecurity Framework (CSF)
+- Operationalized the **NIST CSF** (Identify → Protect → Detect → Respond → Recover).
+- Aligned enterprise security programs with governance, risk, and compliance requirements.
+- Delivered cross-functional training to ensure risk-informed decision-making.
+
+### 🧠 Sophos XDR (Extended Detection & Response)
+- Deployed **Sophos XDR** for unified endpoint, server, and network telemetry.
+- Integrated threat hunting, automated response, and advanced malware protection.
+- Tuned behavioral analytics to reduce false positives and enhance threat visibility.
+
+### 🧪 KnowBe4 Security Awareness & Phishing Simulation
+- Ran organization-wide **KnowBe4** campaigns to test and train user resilience against phishing.
+- Achieved over **60% reduction** in click-through rates via gamified training & risk scoring.
+- Used reporting metrics to drive executive awareness and culture transformation.
+
+### 🕵️ Shadowmap Darkweb Monitoring
+- Deployed **Shadowmap** for external threat surface monitoring and dark web exposure.
+- Proactively identified leaked credentials, brand abuse, and shadow IT risks.
+- Enabled threat mitigation before exploitation using continuous intelligence alerts.
+
+### 🔍 Tenable Vulnerability Management (Nessus)
+- Led enterprise-wide implementation of **Tenable** for asset-based vuln scans and prioritization.
+- Aligned scanning cadence with asset criticality and patch management workflows.
+- Integrated with SIEM and ticketing systems for automated remediation tracking.
+
+### 🌐 Imperva Web Application Firewall (WAF)
+- Configured and managed **Imperva WAF** to protect critical web apps from OWASP Top 10 threats.
+- Fine-tuned rulesets to minimize false positives and maximize zero-day protection.
+- Conducted regular tuning, pen test validations, and policy reviews with dev teams.
+
 
 ➡ *More coming soon. Watch this space or check my pinned repos!*
 
