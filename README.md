@@ -66,7 +66,7 @@ countries and driving security transformation initiatives.
 - Achieved over **60% reduction** in click-through rates via gamified training & risk scoring.
 - Used reporting metrics to drive executive awareness and culture transformation.
 
-### 🕵️ Shadowmap Darkweb Monitoring
+### 🕵️ Shadowmap Dark Web Monitoring
 - Deployed **Shadowmap** for external threat surface monitoring and dark web exposure.
 - Proactively identified leaked credentials, brand abuse, and shadow IT risks.
 - Enabled threat mitigation before exploitation using continuous intelligence alerts.
@@ -81,6 +81,25 @@ countries and driving security transformation initiatives.
 - Fine-tuned rulesets to minimize false positives and maximize zero-day protection.
 - Conducted regular tuning, pen test validations, and policy reviews with dev teams.
 
+### 🧩 ManageEngine Endpoint Central
+- Implemented **Endpoint Central** to streamline endpoint security, patching, and remote management.
+- Automated OS/application patching, software deployment, and compliance reporting.
+- Strengthened endpoint control in multi-geo corporate environments.
+
+### 📡 Zonal USSD Infrastructure Upgrade using VMware
+- Spearheaded **zonal-level USSD architecture migration** to VMware-based virtualized infrastructure.
+- Improved scalability, high availability, and disaster recovery for telecom messaging services.
+- Recognized with the **Guiding Star Award** for excellence in deployment and uptime SLAs.
+
+### 📁 Egnite Enterprise File Sharing – Multi-Country Rollout
+- Led secure rollout of **Egnite**, a cross-border enterprise file sharing platform.
+- Ensured encryption at rest/in transit, RBAC, and regulatory compliance in 5+ countries.
+- Enabled secure document collaboration and mobile access for geographically dispersed teams.
+
+### 🎥 Cybersecurity Training Portal with 3000+ Videos
+- Created and recorded **over 3000 training videos** covering ethical hacking, SOC operations, cloud security, and certifications.
+- Designed and launched an end-to-end **e-learning portal** to empower learners worldwide.
+- Scaled impact to **15,000+ students across 160+ countries** through structured curriculum and hands-on labs.
 
 ➡ *More coming soon. Watch this space or check my pinned repos!*
 
