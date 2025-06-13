@@ -125,7 +125,7 @@ countries and driving security transformation initiatives.
 - 🐧 **Red Hat Certified Systems Administrator** (605010380231224)  
 - 📚 **ITIL 4 Foundation Certified + Practitioner** (99800979617308056)  
 - 💾 **Certified on Nimble Storage Platform**  
-- 📈 **Certified Project Management Professional** | Member of PMI  
+- 📈 **Certified Project Management Professional** | Member of PMI (4098395) 
 - 🔑 **CyberArk Privileged Access Security (Trustee)**  
 - 🛡️ **Symantec Endpoint Protection Implementation**  
 - 🚨 **Sophos XDR Advanced Implementation**
